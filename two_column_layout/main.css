@@ -1,0 +1,36 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+/* Código Lau */
+
+#bloque {
+  margin: 100px 0px;
+}
+
+
+#right {
+  display: block;
+  width: 375px; /* width del .container a la mitad :v */
+  float: right;
+
+}
+
+#left {
+  width: 375px;
+  float: left;
+}
